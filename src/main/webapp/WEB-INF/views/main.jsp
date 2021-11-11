@@ -7,7 +7,18 @@
 <title>Insert title here</title>
 </head>
 <body>
-	메인페이지
-	아무내용
+	<div id="content">
+		<form>
+			<input tpye="button" value="하이">
+		</form>
+		<table>
+			<tr>
+				<td>gg</td>
+			</tr>
+			<tr>
+				<td>gg</td>
+			</tr>
+		</table>
+	</div>
 </body>
 </html>
