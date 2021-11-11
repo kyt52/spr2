@@ -8,5 +8,6 @@
 </head>
 <body>
 	메인페이지
+	아무내용
 </body>
 </html>
